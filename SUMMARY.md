@@ -5,4 +5,5 @@
 * [CSS](css.md)
 * [Javascript](javascript.md)
 * [VUE](vue.md)
+* [Dictionary](dictionary.md)
 

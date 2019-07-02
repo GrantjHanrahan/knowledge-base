@@ -2,8 +2,13 @@
 
 ## Contents
 
-* [HTML](html.md)
-* [CSS](css.md)
-* [JS](javascript.md)
-* [VUE](vue.md)
+### [HTML](html.md)
+
+### [CSS](css.md)
+
+### [JS](javascript.md)
+
+### [VueJS](vue.md)
+
+### Dictionary
 
