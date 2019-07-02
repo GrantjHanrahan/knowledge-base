@@ -1,14 +1,12 @@
-# Directory
-
-## Contents
+# Contents Page
 
 ### [HTML](html.md)
 
-### [CSS](css.md)
+### [CSS](css/)
 
 ### [JS](javascript.md)
 
-### [VueJS](vue.md)
+### [VueJS](vue/)
 
-### Dictionary
+### [Dictionary](dictionary.md)
 
