@@ -9,4 +9,5 @@
 * [VUE](vue/README.md)
   * [Installation/ First Steps](vue/installation-first-steps.md)
 * [Dictionary](dictionary.md)
+* [Git](git.md)
 
