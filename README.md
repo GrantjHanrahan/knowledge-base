@@ -8,5 +8,7 @@
 
 ### [VueJS](vue/)
 
+### [Python](python/)
+
 ### [Dictionary](dictionary.md)
 
